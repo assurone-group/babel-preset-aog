@@ -1,1 +1,1 @@
-'# babel-preset-aog' 
+# babel-preset-aog

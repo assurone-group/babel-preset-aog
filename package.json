@@ -1,0 +1,32 @@
+{
+  "name": "babel-preset-aog",
+  "version": "0.0.1",
+  "description": "Babel preset for AOG projects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assurone-group/babel-preset-aog.git"
+  },
+  "keywords": [
+    "babel-preset"
+  ],
+  "author": "David Cazalis <dcazalis@assurone-group.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/assurone-group/babel-preset-aog/issues"
+  },
+  "homepage": "https://github.com/assurone-group/babel-preset-aog#readme",
+  "dependencies": {
+    "babel-plugin-array-includes": "^2.0.3",
+    "babel-plugin-syntax-class-properties": "^6.8.0",
+    "babel-plugin-syntax-decorators": "^6.8.0",
+    "babel-plugin-syntax-object-rest-spread": "^6.8.0",
+    "babel-plugin-transform-class-properties": "^6.10.2",
+    "babel-plugin-transform-decorators-legacy": "^1.3.4",
+    "babel-plugin-transform-object-assign": "^6.8.0",
+    "babel-plugin-transform-object-rest-spread": "^6.8.0"
+  }
+}
